@@ -1,0 +1,71 @@
+﻿  Main.cpp
+c:\program files\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: 'APIENTRY': redefinición de macro
+  c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\include\glfw\glfw3.h(98): note: vea la definición anterior de 'APIENTRY'
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(342): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(343): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(344): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(346): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(347): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(348): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(350): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(351): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(352): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(481): warning C4018: '<': no coinciden signed/unsigned
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(489): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(490): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(491): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(502): warning C4018: '<': no coinciden signed/unsigned
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(523): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(535): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(559): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(565): warning C4018: '<': no coinciden signed/unsigned
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(571): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(577): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(583): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(406): warning C4101: 'nFigures': variable local sin referencia
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(505): warning C4101: 'p3': variable local sin referencia
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(505): warning C4101: 'p1': variable local sin referencia
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(505): warning C4101: 'p2': variable local sin referencia
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(716): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(717): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(723): warning C4018: '>=': no coinciden signed/unsigned
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(727): warning C4018: '<': no coinciden signed/unsigned
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(771): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(861): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(862): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(863): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(864): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(865): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(869): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(870): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(871): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(872): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(873): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(877): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(878): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(879): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(880): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(881): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(885): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(886): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(887): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(888): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(889): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(893): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(894): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(895): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(896): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(897): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(901): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(902): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(903): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(904): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(905): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(919): warning C4018: '<': no coinciden signed/unsigned
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(944): warning C4101: 'v': variable local sin referencia
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(943): warning C4101: 'mat': variable local sin referencia
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(1022): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\main.cpp(1096): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  FCG.Tarea1_25038805.vcxproj -> c:\users\josé manuel\documents\visual studio 2015\Projects\FCG.Tarea1_25038805\Debug\FCG.Tarea1_25038805.exe
+  FCG.Tarea1_25038805.vcxproj -> c:\users\josé manuel\documents\visual studio 2015\Projects\FCG.Tarea1_25038805\Debug\FCG.Tarea1_25038805.pdb (Partial PDB)

@@ -1,0 +1,110 @@
+﻿  Model.cpp
+C:\Program Files\Windows Kits\8.1\Include\shared\minwindef.h(130): warning C4005: 'APIENTRY': redefinición de macro
+  C:\Users\José Manuel\documents\visual studio 2015\Projects\FCG.Tarea1_25038805\include\GLFW/glfw3.h(98): note: vea la definición anterior de 'APIENTRY'
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\Model.h(29): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\Model.h(30): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\Model.h(31): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\josé manuel\documents\visual studio 2015\projects\fcg.tarea1_25038805\fcg.tarea1_25038805\Model.h(32): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+Model.cpp(111): warning C4018: '<': no coinciden signed/unsigned
+Model.cpp(129): warning C4018: '<': no coinciden signed/unsigned
+Model.cpp(138): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+Model.cpp(139): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+Model.cpp(140): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+Model.cpp(142): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+Model.cpp(143): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+Model.cpp(144): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+Model.cpp(146): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+Model.cpp(147): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+Model.cpp(148): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+Model.cpp(154): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+Model.cpp(155): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+Model.cpp(156): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+Model.cpp(157): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+Model.cpp(158): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+Model.cpp(159): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+Model.cpp(193): warning C4018: '<': no coinciden signed/unsigned
+Model.cpp(205): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+Model.cpp(211): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+Model.cpp(217): warning C4244: 'argumento': conversión de 'double' a 'const float'; posible pérdida de datos
+Model.cpp(233): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(237): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(238): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(239): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(244): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(248): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(250): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(256): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(257): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(258): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(263): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(264): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(265): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(271): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(272): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(273): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(282): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(283): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(284): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(294): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(295): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(296): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(305): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(306): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(311): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(312): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(313): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(321): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(322): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(323): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(325): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(327): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(331): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(332): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(333): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(335): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(337): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(349): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(350): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(351): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(353): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(355): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(361): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(362): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(363): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(365): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(367): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(373): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(374): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(380): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(381): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(382): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(384): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(386): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(391): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(392): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(393): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(395): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(397): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(403): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(404): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(405): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(407): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(409): warning C4305: '=': truncamiento de 'double' a 'float'
+Model.cpp(195): warning C4101: 'v': variable local sin referencia
+Model.cpp(195): warning C4101: 'u': variable local sin referencia
+Model.cpp(521): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+Model.cpp(522): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+Model.cpp(523): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+Model.cpp(525): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+Model.cpp(526): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+Model.cpp(527): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+Model.cpp(529): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+Model.cpp(530): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+Model.cpp(531): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código
+  Generación de código finalizada
+  1 of 1063 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  FCG.Tarea1_25038805.vcxproj -> C:\Users\José Manuel\documents\visual studio 2015\Projects\FCG.Tarea1_25038805\Release\FCG.Tarea1_25038805.exe
+  FCG.Tarea1_25038805.vcxproj -> C:\Users\José Manuel\documents\visual studio 2015\Projects\FCG.Tarea1_25038805\Release\FCG.Tarea1_25038805.pdb (Full PDB)
